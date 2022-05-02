@@ -1,1 +1,1 @@
-{'ver1':'15', 'ver2':'10', 'ver3':'\n[ Update gbwhatsapp pro new Important Update] Please Download And Install Latest Version To Keep Your WhatsApp Working Well\n', 'dli':'https://t.me/downloadwhatsappgold'}
+{'ver1':'16', 'ver2':'20', 'ver3':'\n[ Update gbwhatsapp pro new Important Update] Please Download And Install Latest Version To Keep Your WhatsApp Working Well\n', 'dli':'https://t.me/downloadwhatsappgold'}
